@@ -18,7 +18,6 @@ See `demo_video.webp` in the repository root for a complete demonstration showin
 3. Adding new tasks using the form (AJAX POST)
 4. Tasks appearing instantly without page reload
 5. Toggling task completion using checkboxes (AJAX PUT)
-6. Visual updates (grey text + strikethrough when completed)
 
 ## 🚀 Installation
 
